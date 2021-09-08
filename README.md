@@ -4,6 +4,7 @@
 #
 #
 ### This is the main workbook ![Assignment 3](https://github.com/zzhu76/Unsuprevised-Machine-Learning-Data-Visualization/blob/main/Assignment3.ipynb)
+reload the workbook if it does not open on the first time 
 #
 #
 ### In case the 3D plot doesn't show up
