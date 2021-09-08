@@ -5,4 +5,5 @@ This repo focus on using unsuprevised machine learning method, including K-Means
 
 ### In case the 3D plot doesn't show up
 
-![image](https://github.com/zzhu76/Unsuprevised-Machine-Learning-Data-Visualization/issues/3#issue-991262617)
+![3D_Plot](https://user-images.githubusercontent.com/89670129/132538340-5adfbfb0-fbec-4430-9237-1f91e025edd6.png)
+
